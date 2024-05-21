@@ -1,0 +1,2 @@
+ADDI x1, x0, 2;
+SLL x2, x3;
